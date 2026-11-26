@@ -1,6 +1,0 @@
-.env
-env/
-notebooks/
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
